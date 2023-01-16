@@ -49,3 +49,11 @@ main {
 .lista{
     margin-left: -25px;
 }
+
+/* Tabella */
+thead {
+background-color: deepskyblue;
+}
+.celeste{
+    background-color:aqua ;
+}
