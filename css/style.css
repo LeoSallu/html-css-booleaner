@@ -1,0 +1,19 @@
+body {
+    
+    margin: 0;
+}
+/* Header  */
+svg {
+    width: 20%;
+    padding-top: 2.5%;
+    padding-left: 7px;
+    }
+    header {
+        background-color: #4ea0ff;
+        background-image: url(../img/pattern.png);
+        background-repeat: repeat;
+        background-size: 32%;
+        height: 100px;
+       
+
+    }
